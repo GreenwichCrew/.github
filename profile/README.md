@@ -1,12 +1,28 @@
-## Hi there 👋
+### Hi there 👋
+## I am Carson Sernick
+https://carsonsernick.info/
+Carson Sernick, website
+- A **FullStack** developer
+- I am 15 years old
+- I have 6 years of coding experience
+- I code in HTML, CSS, and JS Mainly
+- I sometimes code Python and Java
+- I want to learn C Language and how to WhiteHat Hack
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+# Contact me here
+
+#### -Carson@carsonsernick.info
+#### - carsonsernick.info
+
+# My Profiles
+- https://replit.com/@Carson-Sernick
+- https://github.com/Pr0H4cker
+
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pr0H4cker&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
